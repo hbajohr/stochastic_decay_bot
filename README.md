@@ -9,8 +9,7 @@ Der Stochastic Decay-Bot bringt zwei Paradigmen digitaler Literatur zusammen - d
 ### Was bedeutet der Text?
 Der Bot zitiert das allererste deutschsprachige Werk digitaler Literatur: Theo Lutz' [»Stochastische Texte«]([https://www.google.com](https://zkm.de/de/werk/stochastische-texte) von 1959, die unter der Leitung von Max Bense entstanden. Das Programm produzierte zufällig zusammengesetzte Sätze aus einem Satz von Wörtern aus Kafkas _Schloss_. Zum Beispiel: JEDES DORF IST GROSS. EIN BAUER IST LEISE. 
 
-![Twitter-Bot-Bild](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png "Ausschnitt aus den originalen Stochastischen Texten")
-
+![Ausschnitt aus dem Original-Ausdruck der Stochstischen Texte.](https://zkm.de/sites/default/files/styles/r17_1280/public/bild/MNK_01624_01580_lutz_stochastische-texte_001.jpg "Ausschnitt aus dem Original-Ausdruck der Stochstischen Texte")
 
 ### Was ist daran neu?
 Für meine Version habe ich zwei Aktualisierungen vorgenommen: 
