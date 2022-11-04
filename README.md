@@ -22,5 +22,7 @@ Damit vermischt der Bot drittens nicht nur das alte und das neue Paradigma, sond
 
 ![Beispielbild 2 des Twitterbots: Ein Stich im Stil Dürers mit der Aufschrift: EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.](https://pbs.twimg.com/media/FgfiK6RX0AAFxef?format=jpg&name=small "EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.")
 
+Damit die Bilder nicht immer gleich aussehen, benutze ich ein »prompt engineering«, das stable diffusion zusätzlich zum Eingabetext noch Angaben zum Stil übergibt: In den Beispielen etwa »in the style of a Dürer etching« oder »as a Xerox copy«.
+
 ### Wie kann ich das selbst laufen lassen?
 Der Programmcode ist frei verfügbar; nur die API-Keys für tweepy und relicate müssen in den Code eingetragen werden (oder besser noch als Umgebungsvariablen gespeichert werden).
