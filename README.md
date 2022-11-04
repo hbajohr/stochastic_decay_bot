@@ -11,6 +11,7 @@ Der Bot zitiert das allererste deutschsprachige Werk digitaler Literatur: Theo L
 
 ![Twitter-Bot-Bild](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png "Ausschnitt aus den originalen Stochastischen Texten")
 
+
 ### Was ist daran neu?
 Für meine Version habe ich zwei Aktualisierungen vorgenommen: 
 Erstens passe ich Lutz' Original den Möglichkeiten eines Twitterbots an, indem ich ihn _dynamisiere_: Je nach Tag des Monats wird der generierte Text Schritt für Schritt »korrumpiert« (Buchstaben werden zufällig austauscht, so dass aus SCHLOSS irgendwann vielleicht SXHLOTS wird). Der Lutz'sche Text ist so am Monatsende fast unlesbar. Der Reset erfolgt immer am Monatsanfang.
