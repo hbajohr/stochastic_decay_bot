@@ -17,7 +17,10 @@ Erstens passe ich Lutz' Original den Möglichkeiten eines Twitterbots an, indem 
 Zweitens verbinde ich das alte _regelbasierte_ Paradigma mit einem neuen _neuronalen Netz_ zur Bildgenerierung (der Text-to-Image-KI »stable diffusion«, siehe dazu [hier](https://en.wikipedia.org/wiki/Stable_Diffusion)), die den Satz versucht als Bild zu interpretieren. 
 Damit vermischt der Bot drittens nicht nur das alte und das neue Paradigma, sondern illustriert ihre Besonderheiten über die Funktion von _Fehlern_ und _Glitches_: Während im sequenziellen Paradigma ein Fehler klar erkennbar ist – ein falscher Buchstabe ruiniert die Bedeutung des Wortes –, ist das konnektionistische Paradigma sehr viel flexibler und versucht, Fehler zu glätten und dennoch Sinn aus der sinnlosen Eingabe zu erzeugen. Es bevorzugt, könnte man sagen, glatte Oberflächen und die Kohärenz von Gestalten statt Brüche zuzulassen und Fehler offenzulegen. 
 
-![Beispielbild des Twitterbots: Ein mysteriöses schwarz-weißes Bild mit der Aufschrift: JEDER WEG IST DUNKEL. EIN GAAF IST FERN.](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png "JEDER WEG IST DUNKEL. EIN GAAF IST FERN.")
+![Beispielbild 1 des Twitterbots: Ein mysteriöses schwarz-weißes Bild mit der Aufschrift: JEDER WEG IST DUNKEL. EIN GAAF IST FERN.](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png "JEDER WEG IST DUNKEL. EIN GAAF IST FERN.")
+
+![Beispielbild 2 des Twitterbots: Ein Stich im Stil Dürers mit der Aufschrift: EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png) "EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.")
+
 
 ### Wie kann ich das selbst laufen lassen?
 Der Programmcode ist frei verfügbar; nur die API-Keys für tweepy und relicate müssen in den Code eingetragen werden (oder besser noch als Umgebungsvariablen gespeichert werden).
