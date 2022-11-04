@@ -19,7 +19,7 @@ Damit vermischt der Bot drittens nicht nur das alte und das neue Paradigma, sond
 
 ![Beispielbild 1 des Twitterbots: Ein mysteriöses schwarz-weißes Bild mit der Aufschrift: JEDER WEG IST DUNKEL. EIN GAAF IST FERN.](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png "JEDER WEG IST DUNKEL. EIN GAAF IST FERN.")
 
-![Beispielbild 2 des Twitterbots: Ein Stich im Stil Dürers mit der Aufschrift: EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.](https://user-images.githubusercontent.com/20578427/199972653-19b125a7-aecd-481f-8c7e-24e13c25964b.png) "EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.")
+![Beispielbild 2 des Twitterbots: Ein Stich im Stil Dürers mit der Aufschrift: EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.](https://pbs.twimg.com/media/FgfiK6RX0AAFxef?format=jpg&name=small) "EIN BLICK IST DUNKEL ODER EIN TURM IST STARK.")
 
 
 ### Wie kann ich das selbst laufen lassen?
