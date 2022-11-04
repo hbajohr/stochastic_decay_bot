@@ -1,8 +1,8 @@
 # Stochastic Decay Bot
 
-Dieser Bot ist für meine Poetikvorlesung an der Universität Hildesheim geschrieben worden.  
+Diesen Bot habe ich für die Poetikvorlesung an der Universität Hildesheim (15. November 2022) geschrieben.  
 
-Der Stochastic Decay-Bot bringt zwei Paradigmen digitaler Literatur zusammen - das regelbasierte "sequentielle Paradigma" und das auf neuronalen Netzen beruhende "konnektionistische Paradigma". Als solches ist er sowohl ein Werk der Literatur/digitalen Kunst als auch eine Illustration der Geschichte der digitalen Literatur.
+Der Stochastic Decay-Bot bringt zwei Paradigmen digitaler Literatur zusammen - das regelbasierte "sequentielle Paradigma" und das auf neuronalen Netzen beruhende "konnektionistische Paradigma". Als solches ist er sowohl ein ''Werk'' der Literatur/digitalen Kunst als auch eine ''Illustration'' der Geschichte der digitalen Literatur.
 
 Der Bot zitiert das allererste deutschsprachige Werk digitaler Literatur: Theo Lutz' "Stochastische Texte" von 1959, die unter der Leitung von Max Bense entstanden. Das Programm produzierte zufällig zusammengesetzte Sätze aus einem Satz von Wörtern aus Kafkas ''Schloss''. 
 
