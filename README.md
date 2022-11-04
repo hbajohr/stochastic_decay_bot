@@ -1,4 +1,4 @@
-# Stochastic Decay Bot ([@JTOCHAST_TFXFE](https://twitter.com/JTOCHAST_TFXFE)
+# Stochastic Decay-Bot ([@JTOCHAST_TFXFE](https://twitter.com/JTOCHAST_TFXFE)
 
 ### Was ist das?
 Diesen Bot habe ich für die Poetikvorlesung an der Universität Hildesheim (15. November 2022) geschrieben. Er twittert einmal am Tag um 9 Uhr morgens einen Text, den er von einer Text-zu-Bild-KI illustieren lässt. Dabei wird, je weiter der Monat fortschreitet, der Text immer fehlerhafter – er zerfällt.
