@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/python
 
 ########################################################################
 # STOCHASTIC DECAY, Hannes Bajohr 2022                                 #
